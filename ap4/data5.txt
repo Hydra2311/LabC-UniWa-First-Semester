@@ -1,0 +1,7 @@
+Grade of student 1: Grade of student 2: Grade of student 3: Grade of student 4: Grade of student 5: Grade of student 6: Grade of student 7: Grade of student 8: Grade of student 9: Grade of student 10: 
+
+Mean is : 5.5 and Standard Deviation : 2.9
+2 Ma8htes phran F, ara to 20.0%
+3 Ma8htes phran C, ara to 30.0%
+3 Ma8htes phran B, ara to 30.0%
+2 Ma8htes phran A, ara to 20.0%
